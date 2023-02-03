@@ -4,7 +4,8 @@
 </div>
 
 ## Requirements 
-```pip install youtube-dl
+```
+pip install youtube-dl
 ```
 ## How to use and demo 
 Run the file and you will see this: <br><br>
